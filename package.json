@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/odit-enim-reiciendis-pariatur",
-  "version": "4.6.43",
+  "version": "4.6.44",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -345,5 +345,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/odit-enim-reiciendis-pariatur/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
